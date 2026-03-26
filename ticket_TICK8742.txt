@@ -1,0 +1,7 @@
+Ticket ID: TICK8742
+Name: nandani
+Bus: BUS202
+Seats: 1
+Date: 12/9/2025
+Payment: Cash
+Fare: ₹200
